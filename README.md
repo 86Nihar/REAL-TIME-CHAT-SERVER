@@ -31,3 +31,8 @@ Frontend: HTML5, CSS3, Vanilla JavaScript
 
 Backend: Node.js,  Socket.IO
 
+
+
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/adfab8a2-0004-40b8-81ff-31068f47fea9)
